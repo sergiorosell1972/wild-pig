@@ -1,0 +1,62 @@
+body{
+
+    background-color: rgb(0, 255, 191);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+   
+#container¨{
+    width: 70%;
+    margin:100px;
+  
+    min-height: 80%;
+    margin-top: 10px;
+}
+header{
+margin: 10px;
+float: center;
+min-height: 100%;
+
+    background-color:rgb(245, 99, 99)
+  
+
+}
+nav{
+background-color: beige
+
+}
+nav{
+    margin 10 px;
+    float: center;
+}
+nav ul li{
+margin 20 px;
+
+}
+#content{
+   float: right;
+   width: 80%;
+   min-height: 500px;
+
+}
+aside{
+    float: right;
+    width: 40%;
+    min-height: 600px;
+  background-color: rgb(170, 245, 180);
+}
+
+footer{
+    
+float:right;
+    width:100%
+}
+table{
+    background-color: white;
+}
+p{
+    margin: 60px;
+  
+}
+h1{
+    margin: 60px;
+}
